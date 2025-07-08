@@ -1,6 +1,6 @@
 # 📰 Fake News Detection — BERT-based Classification with Streamlit
 
-👉 **[🔗 Live Demo]([https://your-project-link-here.com](https://fakenewsdetection-9ix5r3mbvwd9vakvdh6j3f.streamlit.app/)]**  
+👉 **[🔗 Live Demo][(https://fakenewsdetection-9ix5r3mbvwd9vakvdh6j3f.streamlit.app/)]**  
 *(Click to try the app online)*
 
 ---
